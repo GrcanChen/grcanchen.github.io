@@ -1,4 +1,5 @@
-# Generated files
-docs/.vuepress/dist
-node_modules
-yarn-error.log
+*.gem
+.bundle
+.sass-cache
+_site
+Gemfile.lock
