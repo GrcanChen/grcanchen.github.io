@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "vuepress": "^0.14.8"
+  },
+  "scripts": {
+    "www:dev": "vuepress dev docs",
+    "www:build": "vuepress build docs",
+    "www:release": "bash deploy.sh"
+  },
+  "dependencies": {}
+}

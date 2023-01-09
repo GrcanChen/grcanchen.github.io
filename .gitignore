@@ -1,0 +1,4 @@
+# Generated files
+docs/.vuepress/dist
+node_modules
+yarn-error.log
