@@ -1,2 +1,12 @@
 theme: jekyll-theme-minimal
 title: 冉茗信息工作室
+lsi: false
+safe: true
+source: docs
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
